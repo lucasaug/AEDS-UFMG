@@ -1,0 +1,100 @@
+50	Ghost Busters	0087332	1984
+11	Shrek	0126029	2001
+58	Groundhog Day	0107048	1993
+98	O Brother, Where Art Thou?	0190590	2000
+18	Memento	0209144	2000
+26	Kill Bill: Vol. 2	0378194	2004
+80	Catch Me If You Can	0264464	2002
+91	Star Wars: Episode II - Attack of the Clones	0121765	2002
+84	American History X	0120586	1998
+44	X-Men	0120903	2000
+70	Ace Ventura: Pet Detective	0109040	1994
+77	Blade Runner	0083658	1982
+36	Wo hu cang long	0190332	2000
+5	American Beauty	0169547	1999
+61	E.T.: The Extra-Terrestrial	0083866	1982
+81	Spider-Man	0145487	2002
+85	American Pie	0163651	1999
+51	Monsters, Inc.	0198781	2001
+94	V for Vendetta	0434409	2006
+14	Star Wars	0076759	1977
+38	The Incredibles	0317705	2004
+62	Lost in Translation	0335266	2003
+71	Good Will Hunting	0119217	1997
+43	Kill Bill: Vol. 2	0378194	2004
+31	The Usual Suspects	0114814	1995
+68	Being John Malkovich	0120601	1999
+3	Pulp Fiction	0110912	1994
+46	Speed	0111257	1994
+47	Le fabuleux destin d'Amélie Poulain	0211915	2001
+93	Dances with Wolves	0099348	1990
+10	The Silence of the Lambs	0102926	1991
+8	The Shawshank Redemption	0111161	1994
+79	Pretty Woman	0100405	1990
+67	Reservoir Dogs	0105236	1992
+86	Donnie Darko	0246578	2001
+69	There's Something About Mary	0129387	1998
+27	Braveheart	0112573	1995
+39	Batman Begins	0372784	2005
+19	Gladiator	0172495	2000
+34	Eternal Sunshine of the Spotless Mind	0338013	2004
+57	The Bourne Identity	0258463	2002
+37	Schindler's List	0108052	1993
+53	The Fifth Element	0119116	1997
+65	The Mask	0110475	1994
+76	The Lion King	0110357	1994
+35	Ocean's Eleven	0240772	2001
+97	The Shining	0081505	1980
+83	Home Alone	0099785	1990
+12	The Sixth Sense	0167404	1999
+42	Monty Python and the Holy Grail	0071853	1975
+22	Terminator 2: Judgment Day	0103064	1991
+82	True Lies	0111503	1994
+15	Independence Day	0116629	1996
+40	Twelve Monkeys	0114746	1995
+23	Titanic	0120338	1997
+41	Terminator Salvation	0438488	2009
+55	Mission: Impossible III	0317919	2006
+30	Finding Nemo	0266543	2003
+92	Shrek 2	0298148	2004
+6	The Lord of the Rings: The Return of the King	0167260	2003
+95	Edward Scissorhands	0099487	1990
+72	The Fugitive	0106977	1993
+63	Batman	0060153	1966
+17	Pirates of the Caribbean: The Curse of the Black Pearl	0325980	2003
+16	Men in Black	0119654	1997
+48	The Godfather	0068646	1972
+66	Die Hard	0095016	1988
+96	Indiana Jones and the Temple of Doom	0087469	1984
+74	Mrs. Doubtfire	0107614	1993
+75	Austin Powers: The Spy Who Shagged Me	0145660	1999
+25	Star Wars: Episode VI - Return of the Jedi	0086190	1983
+64	Alien	0078748	1979
+49	Star Wars: Episode I - The Phantom Menace	0120915	1999
+9	Fight Club	0137523	1999
+59	Sin City	0401792	2005
+4	The Lord of the Rings: The Two Towers	0167261	2002
+32	Spider-Man	0145487	2002
+73	The Matrix Reloaded	0234215	2003
+88	Austin Powers: International Man of Mystery	0118655	1997
+29	Saving Private Ryan	0120815	1998
+60	Apollo 13	0112384	1995
+89	A Clockwork Orange	0066921	1971
+56	Fargo	0116282	1996
+0	The Matrix	0133093	1999
+90	Dumb & Dumber	0109686	1994
+21	Raiders of the Lost Ark	0082971	1981
+33	Shichinin no samurai	0047478	1954
+87	One Flew Over the Cuckoo's Nest	0073486	1975
+78	Rain Man	0095953	1988
+20	Star Wars: Episode V - The Empire Strikes Back	0080684	1980
+24	Toy story	0114709	1995
+45	A Beautiful Mind	0268978	2001
+54	Indiana Jones and the Last Crusade	0097576	1989
+13	Back to the Future	0088763	1985
+7	Jurassic Park	0107290	1993
+28	Minority Report	0181689	2002
+2	Forrest Gump	0109830	1994
+52	The Truman Show	0120382	1998
+1	The Lord of the Rings: The Fellowship of the Ring	0120737	2001
+99	X2	0290334	2003

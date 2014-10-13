@@ -1,0 +1,46 @@
+bases/2109_users_500_items_metadata.txt	bases/2109_users_500_items_ratings.txt
+
+Most popular
+Blood Diamond	O Brother, Where Art Thou?	Miss Congeniality
+
+Personalizada
+36688:	The Dark Knight	Blood Diamond	The Illusionist
+19402:	Terminator Salvation	Iron Man	The Dark Knight
+28342:	Terminator Salvation	The Bourne Ultimatum	Evan Almighty
+55790:	Terminator Salvation	The Dark Knight	Ratatouille
+40863:	The Dark Knight	Blood Diamond	Inside Man
+55491:	Iron Man	The Dark Knight	No Country for Old Men
+24026:	Blood Diamond	Catch Me If You Can	The Bourne Identity
+16149:	Terminator Salvation	The Dark Knight	Ratatouille
+27115:	Terminator Salvation	The Dark Knight	Ratatouille
+39463:	Terminator Salvation	Iron Man	Juno
+57274:	Terminator Salvation	The Dark Knight	Ratatouille
+35660:	Terminator Salvation	The Dark Knight	Ratatouille
+27626:	Blood Diamond	The Prestige	Good Night, and Good Luck.
+66784:	Terminator Salvation	The Dark Knight	Ratatouille
+71278:	The Dark Knight	No Country for Old Men	The Bourne Ultimatum
+5461:	Terminator Salvation	Iron Man	The Dark Knight
+54371:	Terminator Salvation	Iron Man	The Dark Knight
+40719:	Evan Almighty	Blood Diamond	Inside Man
+46890:	Terminator Salvation	The Dark Knight	Ratatouille
+33171:	Blood Diamond	Inside Man	Wallace & Gromit in The Curse of the Were-Rabbit
+70742:	The Dark Knight	Ratatouille	The Bourne Ultimatum
+63060:	Terminator Salvation	Iron Man	The Dark Knight
+54503:	Terminator Salvation	The Dark Knight	Ratatouille
+30980:	The Simpsons Movie	Blood Diamond	Inside Man
+23953:	Terminator Salvation	Blood Diamond	Stranger Than Fiction
+2891:	Terminator Salvation	The Dark Knight	Ratatouille
+25412:	Terminator Salvation	Iron Man	Ratatouille
+34101:	Terminator Salvation	Iron Man	The Dark Knight
+580:	Wallace & Gromit in The Curse of the Were-Rabbit	Charlie and the Chocolate Factory	The Life Aquatic with Steve Zissou
+17632:	Terminator Salvation	Iron Man	The Dark Knight
+52806:	Terminator Salvation	Iron Man	The Dark Knight
+34196:	Terminator Salvation	Iron Man	The Dark Knight
+4544:	Terminator Salvation	Iron Man	The Dark Knight
+25122:	Lucky Number Slevin	Blood Diamond	Stranger Than Fiction
+34157:	Terminator Salvation	The Dark Knight	Ratatouille
+54274:	Terminator Salvation	The Dark Knight	Ratatouille
+49935:	Terminator Salvation	The Dark Knight	The Bourne Ultimatum
+54152:	Terminator Salvation	Iron Man	The Simpsons Movie
+71420:	Terminator Salvation	Iron Man	The Dark Knight
+21188:	Terminator Salvation	Iron Man	The Dark Knight

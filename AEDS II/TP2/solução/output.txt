@@ -1,0 +1,8 @@
+bases/5_users_5_items_metadata.txt	bases/5_users_5_items_ratingsN.txt
+
+Most popular
+The Lord of the Rings: The Two Towers	Pulp Fiction	Pulp Fiction
+
+Personalizada
+30972:	The Lord of the Rings: The Two Towers	The Lord of the Rings: The Fellowship of the Ring	The Matrix
+36558:	The Lord of the Rings: The Two Towers	The Lord of the Rings: The Fellowship of the Ring	Pulp Fiction

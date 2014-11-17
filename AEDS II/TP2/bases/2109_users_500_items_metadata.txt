@@ -1,0 +1,500 @@
+451	Blood Diamond	0450259	2006
+98	O Brother, Where Art Thou?	0190590	2000
+363	Miss Congeniality	0212346	2000
+119	Cast Away	0162222	2000
+80	Catch Me If You Can	0264464	2002
+212	Wayne's World	0105793	1992
+457	A League of Their Own	0104694	1992
+70	Ace Ventura: Pet Detective	0109040	1994
+489	The Great Escape	0057115	1963
+36	Wo hu cang long	0190332	2000
+169	Unbreakable	0217869	2000
+370	Clear and Present Danger	0109444	1994
+5	American Beauty	0169547	1999
+473	The Bridge on the River Kwai	0050212	1957
+132	Total Recall	0100802	1990
+109	Ferris Bueller's Day Off	0091042	1986
+319	The Bourne Ultimatum	0440963	2007
+94	V for Vendetta	0434409	2006
+202	Fahrenheit 9/11	0361596	2004
+271	Thank You for Smoking	0427944	2005
+387	Inside Man	0454848	2006
+395	Panic Room	0258000	2002
+71	Good Will Hunting	0119217	1997
+215	The Game	0119174	1997
+166	Jerry Maguire	0116695	1996
+97	The Shining	0081505	1980
+3	Pulp Fiction	0110912	1994
+170	Casablanca	0034583	1942
+284	Outbreak	0114069	1995
+124	Léon	0110413	1994
+93	Dances with Wolves	0099348	1990
+10	The Silence of the Lambs	0102926	1991
+63	Batman	0060153	1966
+152	Beauty and the Beast	0101414	1991
+379	Snow White and the Seven Dwarfs	0029583	1937
+79	Pretty Woman	0100405	1990
+134	Life of Brian	0079470	1979
+67	Reservoir Dogs	0105236	1992
+294	The Abyss	0096754	1989
+103	The Green Mile	0120689	1999
+399	Blazing Saddles	0071230	1974
+198	Lock, Stock and Two Smoking Barrels	0120735	1998
+313	The Dark Knight	0468569	2008
+120	Who Framed Roger Rabbit	0096438	1988
+235	RoboCop	0093870	1987
+272	A Few Good Men	0104257	1992
+37	Schindler's List	0108052	1993
+337	Robin Hood: Men in Tights	0107977	1993
+214	Scream	0117571	1996
+371	The Sting	0070735	1973
+441	Dracula	0021814	1931
+485	Das Boot	0082096	1981
+425	The Thomas Crown Affair	0155267	1999
+301	Demolition Man	0106697	1993
+121	Top Gun	0092099	1986
+374	The Birds	0056869	1963
+209	Million Dollar Baby	0405159	2004
+142	The Matrix Revolutions	0242653	2003
+232	The Ring	0298130	2002
+310	Happy Gilmore	0116483	1996
+339	Vertigo	0052357	1958
+233	Clueless	0112697	1995
+385	Zoolander	0196229	2001
+261	Rear Window	0047396	1954
+218	28 Days Later...	0289043	2002
+351	North by Northwest	0053125	1959
+472	Dead Man Walking	0112818	1995
+165	Babe	0112431	1995
+231	The Italian Job	0317740	2003
+41	Terminator Salvation	0438488	2009
+303	The Graduate	0061722	1967
+115	Dead Poets Society	0097165	1989
+55	Mission: Impossible III	0317919	2006
+302	Cliffhanger	0106582	1993
+210	Evan Almighty	0413099	2007
+458	The Neverending Story III	0110647	1994
+30	Finding Nemo	0266543	2003
+168	The Mummy	0120616	1999
+463	While You Were Sleeping	0114924	1995
+352	What's Eating Gilbert Grape	0108550	1993
+225	Super Size Me	0390521	2004
+429	The X Files	0120902	1998
+240	El laberinto del fauno	0457430	2006
+245	Sideways	0375063	2004
+48	The Godfather	0068646	1972
+281	Heat	0113277	1995
+407	Munich	0408306	2005
+155	Almost Famous	0181875	2000
+75	Austin Powers: The Spy Who Shagged Me	0145660	1999
+288	The Meaning of Life	0085959	1983
+230	The Prestige	0482571	2006
+381	Training Day	0139654	2001
+347	Broken Arrow	0115759	1996
+59	Sin City	0401792	2005
+4	The Lord of the Rings: The Two Towers	0167261	2002
+279	The Exorcist	0070047	1973
+344	Gangs of New York	0217505	2002
+283	Mr. & Mrs. Smith	0356910	2005
+141	Harry Potter and the Chamber of Secrets	0295297	2002
+398	Wallace and Gromit in A Close Shave	0112691	1995
+481	True Romance	0108399	1993
+239	The Nightmare Before Christmas	0107688	1993
+250	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	0363771	2005
+338	Goldfinger	0058150	1964
+411	Ed Wood	0109707	1994
+188	The Last Samurai	0325710	2003
+256	King Kong	0360717	2005
+90	Dumb & Dumber	0109686	1994
+312	Brazil	0088846	1985
+21	Raiders of the Lost Ark	0082971	1981
+386	Wallace & Gromit in The Curse of the Were-Rabbit	0312004	2005
+87	One Flew Over the Cuckoo's Nest	0073486	1975
+127	The Princess Bride	0093779	1987
+20	Star Wars: Episode V - The Empire Strikes Back	0080684	1980
+24	Toy story	0114709	1995
+393	Alien³	0103644	1992
+392	Young Frankenstein	0072431	1974
+244	Men in Black II	0120912	2002
+13	Back to the Future	0088763	1985
+287	Hotel Rwanda	0395169	2004
+447	Highlander	0091203	1986
+259	Collateral	0369339	2004
+475	Mad Max	0079501	1979
+493	Mad Max 2	0082694	1981
+459	Good Night, and Good Luck.	0433383	2005
+449	Fear and Loathing in Las Vegas	0120669	1998
+487	The Addams Family	0101272	1991
+434	Fantasia	0032455	1940
+300	The Little Mermaid	0097757	1989
+311	This Is Spinal Tap	0088258	1984
+423	Analyze This	0122933	1999
+164	Face/Off	0119094	1997
+200	I, Robot	0343818	2004
+305	Road to Perdition	0257044	2002
+217	Eyes Wide Shut	0120663	1999
+151	The Blair Witch Project	0185937	1999
+194	When Harry Met Sally...	0098635	1989
+50	Ghost Busters	0087332	1984
+445	Ghostbusters II	0097428	1989
+461	Field of Dreams	0097351	1989
+327	The Rocky Horror Picture Show	0073629	1975
+196	Amadeus	0086879	1984
+358	Ocean's Twelve	0349903	2004
+353	Brokeback Mountain	0388795	2005
+18	Memento	0209144	2000
+324	Thelma & Louise	0103074	1991
+448	Leaving Las Vegas	0113627	1995
+367	Get Shorty	0113161	1995
+222	The 40 Year Old Virgin	0405422	2005
+44	X-Men	0120903	2000
+409	Romancing the Stone	0088011	1984
+236	Die Hard	0095016	1988
+435	Shichinin no samurai	0047478	1954
+416	Star Trek: The Wrath of Khan	0084726	1982
+299	Batman Returns	0103776	1992
+111	Back to the Future Part II	0096874	1989
+112	Back to the Future Part III	0099088	1990
+421	Insomnia	0278504	2002
+270	The Pianist	0253474	2002
+263	Rocky	0075148	1976
+325	Chicago	0299658	2002
+130	Traffic	0181865	2000
+147	The Departed	0407887	2006
+62	Lost in Translation	0335266	2003
+265	The Butterfly Effect	0289879	2004
+216	Shaun of the Dead	0365748	2004
+296	Finding Neverland	0308644	2004
+400	Naked Gun 33 1/3: The Final Insult	0110622	1994
+46	Speed	0111257	1994
+262	The Hitch Hikers Guide to the Galaxy	0081874	1981
+396	Pearl Harbor	0213149	2001
+257	Children of Men	0206634	2006
+149	Liar Liar	0119528	1997
+39	Batman Begins	0372784	2005
+354	My Cousin Vinny	0104952	1992
+226	The Others	0230600	2001
+162	Gattaca	0119177	1997
+465	A History of Violence	0399146	2005
+83	Home Alone	0099785	1990
+145	Ghost	0099653	1990
+42	Monty Python and the Holy Grail	0071853	1975
+100	Aladdin	0103639	1992
+22	Terminator 2: Judgment Day	0103064	1991
+189	Airplane!	0080339	1980
+439	Rush Hour	0120812	1998
+238	Grease	0077631	1978
+139	Big Fish	0319061	2003
+483	10 Things I Hate About You	0147800	1999
+478	Ronin	0122690	1998
+0	The Matrix	0133093	1999
+285	Scarface	0086250	1983
+125	Full Metal Jacket	0093058	1987
+117	The Godfather: Part II	0071562	1974
+197	The Blues Brothers	0080455	1980
+488	The Fly	0091064	1986
+298	Wedding Crashers	0396269	2005
+320	The Firm	0106918	1993
+474	Election	0126886	1999
+253	War of the Worlds	0407304	2005
+72	The Fugitive	0106977	1993
+372	Deep Impact	0120647	1998
+269	Terminator 3: Rise of the Machines	0181852	2003
+8	The Shawshank Redemption	0111161	1994
+137	Bowling for Columbine	0310793	2002
+452	Judge Dredd	0113492	1995
+17	Pirates of the Caribbean: The Curse of the Black Pearl	0325980	2003
+156	Honey, I Shrunk the Kids	0097523	1989
+446	Phone Booth	0183649	2002
+366	Grosse Pointe Blank	0119229	1997
+167	Jumanji	0113497	1995
+274	The Net	0113957	1995
+207	Sleepy Hollow	0162661	1999
+96	Indiana Jones and the Temple of Doom	0087469	1984
+73	The Matrix Reloaded	0234215	2003
+332	Napoleon Dynamite	0374900	2004
+49	Star Wars: Episode I - The Phantom Menace	0120915	1999
+228	Predator	0093773	1987
+428	Stranger Than Fiction	0420223	2006
+437	Dirty Dancing	0092890	1987
+105	Armageddon	0120591	1998
+260	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	0443453	2006
+184	GoldenEye	0113189	1995
+181	Crash	0375679	2004
+278	Good Morning, Vietnam	0093105	1987
+342	Casino	0112641	1995
+190	Ace Ventura: When Nature Calls	0112281	1995
+484	Dune	0087182	1984
+373	Arachnophobia	0099052	1990
+482	The Godfather: Part III	0099674	1990
+29	Saving Private Ryan	0120815	1998
+158	Lola rennt	0130827	1998
+185	Little Miss Sunshine	0449059	2006
+131	Toy Story	0114709	1995
+187	Ice Age	0268380	2002
+183	The Breakfast Club	0088847	1985
+248	The Full Monty	0119164	1997
+118	L.A. Confidential	0119488	1997
+78	Rain Man	0095953	1988
+150	The Hunt for Red October	0099810	1990
+135	Charlie's Angels: Full Throttle	0305357	2003
+432	Star Trek: Generations	0111280	1994
+470	Team America: World Police	0372588	2004
+153	Waterworld	0114898	1995
+160	Mission: Impossible	0117060	1996
+122	Trainspotting	0117951	1996
+383	From Dusk Till Dawn	0116367	1996
+148	Dogma	0120655	1999
+242	The School of Rock	0332379	2003
+401	American Pie	0163651	1999
+28	Minority Report	0181689	2002
+251	300	0416449	2006
+307	Walk the Line	0358273	2005
+193	Harry Potter and the Goblet of Fire	0330373	2005
+433	Butch Cassidy and the Sundance Kid	0064115	1969
+355	Gone in Sixty Seconds	0187078	2000
+11	Shrek	0126029	2001
+466	Misery	0100157	1990
+57	The Bourne Identity	0258463	2002
+321	Wallace & Gromit in The Wrong Trousers	0108598	1993
+213	Moulin Rouge!	0203009	2001
+335	Unforgiven	0105695	1992
+58	Groundhog Day	0107048	1993
+403	Bill & Ted's Excellent Adventure	0096928	1989
+455	Superman Returns	0348150	2006
+348	Tomorrow Never Dies	0120347	1997
+467	The Village	0368447	2004
+203	Signs	0286106	2002
+224	Garden State	0333766	2004
+267	The Lost World: Jurassic Park	0119567	1997
+182	Clerks.	0109445	1994
+350	Planet of the Apes	0063442	1968
+77	Blade Runner	0083658	1982
+427	Donnie Brasco	0119008	1997
+494	MASH	0066026	1970
+85	American Pie	0163651	1999
+328	Wild Wild West	0120891	1999
+176	South Park: Bigger Longer & Uncut	0158983	1999
+51	Monsters, Inc.	0198781	2001
+480	Blow	0221027	2001
+192	Erin Brockovich	0195685	2000
+76	The Lion King	0110357	1994
+440	K-PAX	0272152	2001
+220	Sen to Chihiro no kamikakushi	0245429	2001
+454	Iron Man	0371746	2008
+86	Donnie Darko	0246578	2001
+420	Addams Family Values	0106220	1993
+205	The Royal Tenenbaums	0265666	2001
+426	Gone with the Wind	0031381	1939
+314	Vanilla Sky	0259711	2001
+140	Jaws	0073195	1975
+107	2001: A Space Odyssey	0062622	1968
+144	Big	0094737	1988
+47	Le fabuleux destin d'Amélie Poulain	0211915	2001
+136	Meet the Parents	0212338	2000
+179	Requiem for a Dream	0180093	2000
+101	Star Wars: Episode III - Revenge of the Sith	0121766	2005
+195	Stargate	0111282	1994
+384	Mary Poppins	0058331	1964
+412	Pi	0138704	1998
+69	There's Something About Mary	0129387	1998
+460	Annie Hall	0075686	1977
+377	Ransom	0117438	1996
+479	Home Alone 2: Lost in New York	0104431	1992
+477	Lucky Number Slevin	0425210	2006
+19	Gladiator	0172495	2000
+34	Eternal Sunshine of the Spotless Mind	0338013	2004
+402	Maverick	0110478	1994
+12	The Sixth Sense	0167404	1999
+65	The Mask	0110475	1994
+38	The Incredibles	0317705	2004
+43	Kill Bill: Vol. 2	0378194	2004
+317	The Wedding Singer	0120888	1998
+82	True Lies	0111503	1994
+333	Chinatown	0071315	1974
+456	Kiss Kiss Bang Bang	0373469	2005
+326	Austin Powers in Goldmember	0295178	2002
+304	The Cable Guy	0115798	1996
+415	Eraser	0116213	1996
+15	Independence Day	0116629	1996
+290	Jackie Brown	0119396	1997
+211	La vita è bella	0118799	1997
+275	The Nutty Professor	0117218	1996
+23	Titanic	0120338	1997
+360	Bend It Like Beckham	0286499	2002
+323	About a Boy	0276751	2002
+175	Chicken Run	0120630	2000
+291	The Patriot	0187393	2000
+410	The Perfect Storm	0177971	2000
+376	Lara Croft: Tomb Raider	0146316	2001
+345	Antz	0120587	1998
+221	The Untouchables	0094226	1987
+362	Troy	0332452	2004
+172	Interview with the Vampire: The Vampire Chronicles	0110148	1994
+280	Magnolia	0175880	1999
+286	Ying xiong	0299977	2002
+469	Equilibrium	0238380	2002
+16	Men in Black	0119654	1997
+6	The Lord of the Rings: The Return of the King	0167260	2003
+143	Contact	0118884	1997
+104	The Rock	0117500	1996
+266	Philadelphia	0107818	1993
+113	Twister	0117998	1996
+66	Die Hard	0095016	1988
+74	Mrs. Doubtfire	0107614	1993
+343	The Sound of Music	0059742	1965
+282	X-Men: The Last Stand	0376994	2006
+315	The Devil's Advocate	0118971	1997
+25	Star Wars: Episode VI - Return of the Jedi	0086190	1983
+438	The Mummy Returns	0209163	2001
+64	Alien	0078748	1979
+450	Army of Darkness	0106308	1992
+453	The Karate Kid	0087538	1984
+204	Psycho	0054215	1960
+309	You've Got Mail	0128853	1998
+369	Star Trek: First Contact	0117731	1996
+56	Fargo	0116282	1996
+340	Legally Blonde	0250494	2001
+146	Die Hard: With a Vengeance	0112864	1995
+199	Artificial Intelligence: AI	0212720	2001
+404	21 Grams	0315733	2003
+414	Desperado	0112851	1995
+295	Three Kings	0120188	1999
+129	The Bourne Supremacy	0372183	2004
+40	Twelve Monkeys	0114746	1995
+88	Austin Powers: International Man of Mystery	0118655	1997
+491	Splash	0088161	1984
+380	The Day After Tomorrow	0319262	2004
+92	Shrek 2	0298148	2004
+292	Beverly Hills Cop	0086960	1984
+252	My Big Fat Greek Wedding	0259446	2002
+154	Harry Potter and the Prisoner of Azkaban	0304141	2004
+490	American Psycho	0144084	2000
+391	The English Patient	0116209	1996
+268	Mulholland Dr.	0166924	2001
+495	The Last of the Mohicans	0104691	1992
+464	Best in Show	0218839	2000
+368	The Da Vinci Code	0382625	2006
+336	Blade	0120611	1998
+273	Air Force One	0118571	1997
+405	What Women Want	0207201	2000
+389	Hot Fuzz	0425112	2007
+108	Snatch.	0208092	2000
+255	Chocolat	0241303	2000
+186	Four Weddings and a Funeral	0109831	1994
+2	Forrest Gump	0109830	1994
+341	The Crow	0109506	1994
+177	Pirates of the Caribbean: Dead Man's Chest	0383574	2006
+406	The Simpsons Movie	0462538	2007
+123	As Good as It Gets	0119822	1997
+26	Kill Bill: Vol. 2	0378194	2004
+258	Mystic River	0327056	2003
+254	Pleasantville	0120789	1998
+91	Star Wars: Episode II - Attack of the Clones	0121765	2002
+208	A Fish Called Wanda	0095159	1988
+84	American History X	0120586	1998
+157	Willy Wonka & the Chocolate Factory	0067992	1971
+234	Adaptation.	0268126	2002
+243	Natural Born Killers	0110632	1994
+223	Starship Troopers	0120201	1997
+95	Edward Scissorhands	0099487	1990
+289	Boogie Nights	0118749	1997
+418	Hook	0102057	1991
+61	E.T.: The Extra-Terrestrial	0083866	1982
+247	Platoon	0091763	1986
+408	Basic Instinct	0103772	1992
+173	High Fidelity	0146882	2000
+81	Spider-Man	0145487	2002
+322	Serenity	0379786	2005
+14	Star Wars	0076759	1977
+346	No Country for Old Men	0477348	2007
+241	Con Air	0118880	1997
+191	Cidade de Deus	0317248	2002
+359	Planet of the Apes	0063442	1968
+31	The Usual Suspects	0114814	1995
+68	Being John Malkovich	0120601	1999
+159	Shakespeare in Love	0138097	1998
+424	Rushmore	0128445	1998
+498	The Island	0399201	2005
+174	Sleepless in Seattle	0108160	1993
+430	Mononoke-hime	0119698	1997
+318	Black Hawk Down	0265086	2001
+331	Alien³	0103644	1992
+276	Crocodile Dundee	0090555	1986
+106	Harry Potter and the Sorcerer's Stone	0241527	2001
+417	Ratatouille	0382932	2007
+394	The Terminal	0362227	2004
+442	Dodgeball: A True Underdog Story	0364725	2004
+180	Taxi Driver	0075314	1976
+27	Braveheart	0112573	1995
+277	Spaceballs	0094012	1987
+53	The Fifth Element	0119116	1997
+161	The Wizard of Oz	0032138	1939
+496	A Christmas Story	0085334	1983
+126	Beetle Juice	0094721	1988
+476	Sneakers	0105435	1992
+365	Raising Arizona	0093822	1987
+35	Ocean's Eleven	0240772	2001
+178	Mars Attacks!	0116996	1996
+219	Stand by Me	0092005	1986
+138	Casino Royale	0381061	2006
+444	Saw	0387564	2004
+388	Hellboy	0167190	2004
+293	Notting Hill	0125439	1999
+413	Lord of War	0399295	2005
+330	Chasing Amy	0118842	1997
+114	The Big Lebowski	0118715	1998
+133	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	0057012	1964
+462	The Piano	0107822	1993
+468	Conspiracy Theory	0118883	1997
+9	Fight Club	0137523	1999
+297	Galaxy Quest	0177789	1999
+264	The Talented Mr. Ripley	0134119	1999
+227	Charlie and the Chocolate Factory	0367594	2005
+32	Spider-Man	0145487	2002
+361	Dark City	0118929	1998
+356	Juno	0467406	2007
+246	Enemy of the State	0120660	1998
+431	Wag the Dog	0120885	1997
+171	A Bug's Life	0120623	1998
+60	Apollo 13	0112384	1995
+163	Batman Forever	0112462	1995
+492	Tootsie	0084805	1982
+116	Apocalypse Now	0078788	1979
+128	Goodfellas	0099685	1990
+206	Bridget Jones's Diary	0243155	2001
+422	The Illusionist	0443543	2006
+390	To Kill a Mockingbird	0056592	1962
+89	A Clockwork Orange	0066921	1971
+316	Il buono, il brutto, il cattivo.	0060196	1966
+102	Aliens	0090605	1986
+443	12 Angry Men	0050083	1957
+486	Sling Blade	0117666	1996
+306	Love Actually	0314331	2003
+334	Master and Commander: The Far Side of the World	0311113	2003
+397	The Life Aquatic with Steve Zissou	0362270	2004
+364	The Aviator	0338751	2004
+382	The Birdcage	0115685	1996
+471	Matchstick Men	0325805	2003
+33	Shichinin no samurai	0047478	1954
+357	It's a Wonderful Life	0038650	1946
+349	Lethal Weapon	0093409	1987
+52	The Truman Show	0120382	1998
+419	Batman & Robin	0118688	1997
+54	Indiana Jones and the Last Crusade	0097576	1989
+110	Office Space	0151804	1999
+249	Close Encounters of the Third Kind	0075860	1977
+229	Superman	0078346	1978
+499	The Goonies	0089218	1985
+237	Citizen Kane	0033467	1941
+436	Last Action Hero	0107362	1993
+7	Jurassic Park	0107290	1993
+378	Scary Movie	0175142	2000
+375	Animal House	0077975	1978
+308	Gremlins	0087363	1984
+201	Lethal Weapon	0093409	1987
+45	A Beautiful Mind	0268978	2001
+329	The Mask of Zorro	0120746	1998
+1	The Lord of the Rings: The Fellowship of the Ring	0120737	2001
+497	In the Line of Fire	0107206	1993
+99	X2	0290334	2003

@@ -1,9 +1,9 @@
-#include "../TAD/filme.h"
-#include "../TAD/usuario.h"
-#include "../TAD/filmes.h"
-#include "../TAD/usuarios.h"
-#include "../TAD/registroFilmeJaccard.h"
-#include "../TAD/hashFilmeJaccard.h"
+#include "filme.h"
+#include "usuario.h"
+#include "filmes.h"
+#include "usuarios.h"
+#include "registroFilmeJaccard.h"
+#include "hashFilmeJaccard.h"
 
 #include "funcoesUsuariosFilmes.h"
 

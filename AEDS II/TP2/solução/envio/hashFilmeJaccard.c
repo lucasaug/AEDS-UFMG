@@ -7,7 +7,7 @@
 #include "filmes.h"
 #include "registroFilmeJaccard.h"
 #include "hashFilmeJaccard.h"
-#include "../Utils/funcoesUsuariosFilmes.h"
+#include "funcoesUsuariosFilmes.h"
 
 // inicializa a tabela hash
 void inicializaHash(HashFilmeJaccard *table, int tamanhoHash) {

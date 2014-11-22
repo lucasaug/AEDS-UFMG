@@ -1,3 +1,6 @@
 vai ser necessário desalocar todos os nodos das árvores menos as raízes
 a função getFilme provavelmente será inutilizável e inutilizada
 provavelmente vão faltar muitos frees na parte de criação de hash table, não se esqueça
+
+
+verificar se os arquivos foram abertos com sucesso após tentar abrí-los

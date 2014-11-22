@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "TAD/usuario.h"
-#include "TAD/usuarios.h"
-#include "TAD/filme.h"
-#include "TAD/filmes.h"
+#include "usuario.h"
+#include "usuarios.h"
+#include "filme.h"
+#include "filmes.h"
 
-#include "Utils/funcoesUsuariosFilmes.h"
+#include "funcoesUsuariosFilmes.h"
 
 int main(int argc, char *argv[]){
 

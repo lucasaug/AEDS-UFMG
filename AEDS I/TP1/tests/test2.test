@@ -1,0 +1,96 @@
+# test2.test
+I 40 11
+
+## F
+H 7 9 1 _
+
+C 6 2 /
+C 9 2 /
+C 10 2 \
+
+C 5 3 /
+C 8 3 /
+C 9 3 :
+C 10 3 /
+C 11 3 _
+
+C 4 4 /
+C 7 4 /
+C 8 4 :
+C 9 4 /
+C 11 4 /
+C 12 4 \
+
+C 3 5 /
+C 6 5 /
+C 7 5 :
+C 8 5 /
+C 10 5 /
+C 11 5 :
+C 12 5 /
+
+C 2 6 /
+H 3 4 6 _
+C 5 6 /
+C 6 6 :
+C 7 6 /
+C 9 6 /
+C 10 6 :
+C 11 6 /
+
+C 2 7 \
+C 5 7 \
+C 6 7 :
+C 7 7 \
+C 8 7 /
+C 9 7 :
+C 10 7 /
+
+C 3 8 \
+C 6 8 \
+C 7 8 :
+C 8 8 :
+C 9 8 /
+
+C 4 9 \
+C 7 9 \
+C 8 9 :
+C 9 9 \
+
+C 5 10 \
+C 8 10 \
+C 9 10 :
+C 10 10 \
+
+C 6 11 \
+H 7 8 11 _
+C 9 11 \
+C 10 11 /
+
+S test2.bmp
+F
+
+## U
+H 19 21 1 _
+C 18 2 /
+H 19 20 2 _
+C 21 2 /
+C 22 2 \
+
+## N
+H 33 35 1 _
+S test2.bmp
+F
+
+test2.bmp
+OOOOOO___OOOOOOOOO___OOOOOOOOOOO___OOOOO
+OOOOO/OO/\OOOOOOO/__/\OOOOOOOOO/__/\OOOO
+OOOO/OO/:/_OOOOOO\OO\:\OOOOOOOO\OO\:\OOO
+OOO/OO/:/O/\OOOOOO\OO\:\OOOOOOOO\OO\:\OO
+OO/OO/:/O/:/OO___OO\OO\:\OOO_____\__\:\O
+O/__/:/O/:/OO/__/\OO\__\:\O/__/::::::::\
+O\OO\:\/:/OOO\OO\:\O/OO/:/O\OO\:\~~\~~\/
+OO\OO\::/OOOOO\OO\:\OO/:/OOO\OO\:\OO~~~O
+OOO\OO\:\OOOOOO\OO\:\/:/OOOOO\OO\:\OOOOO
+OOOO\OO\:\OOOOOO\OO\::/OOOOOOO\OO\:\OOOO
+OOOOO\__\/OOOOOOO\__\/OOOOOOOOO\__\/OOOO
